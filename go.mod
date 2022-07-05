@@ -1,4 +1,4 @@
-module grdp
+module "github.com/mkoci/grdp"
 
 go 1.16
 
