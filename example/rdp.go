@@ -8,18 +8,18 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/tomatome/grdp/plugin/cliprdr"
+	"github.com/mkoci/grdp/plugin/cliprdr"
 
-	"github.com/tomatome/grdp/plugin"
+	"github.com/mkoci/grdp/plugin"
 
-	"github.com/tomatome/grdp/core"
-	"github.com/tomatome/grdp/glog"
-	"github.com/tomatome/grdp/protocol/nla"
-	"github.com/tomatome/grdp/protocol/pdu"
-	"github.com/tomatome/grdp/protocol/sec"
-	"github.com/tomatome/grdp/protocol/t125"
-	"github.com/tomatome/grdp/protocol/tpkt"
-	"github.com/tomatome/grdp/protocol/x224"
+	"github.com/mkoci/grdp/core"
+	"github.com/mkoci/grdp/glog"
+	"github.com/mkoci/grdp/protocol/nla"
+	"github.com/mkoci/grdp/protocol/pdu"
+	"github.com/mkoci/grdp/protocol/sec"
+	"github.com/mkoci/grdp/protocol/t125"
+	"github.com/mkoci/grdp/protocol/tpkt"
+	"github.com/mkoci/grdp/protocol/x224"
 )
 
 const (

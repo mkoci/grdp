@@ -8,9 +8,9 @@ import (
 	"unsafe"
 
 	"github.com/shirou/w32"
-	"github.com/tomatome/grdp/glog"
+	"github.com/mkoci/grdp/glog"
 
-	"github.com/tomatome/grdp/core"
+	"github.com/mkoci/grdp/core"
 
 	"github.com/tomatome/win"
 )

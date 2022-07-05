@@ -8,12 +8,12 @@ import (
 	"io"
 	"reflect"
 
-	"github.com/tomatome/grdp/core"
-	"github.com/tomatome/grdp/emission"
-	"github.com/tomatome/grdp/glog"
-	"github.com/tomatome/grdp/protocol/t125/ber"
-	"github.com/tomatome/grdp/protocol/t125/gcc"
-	"github.com/tomatome/grdp/protocol/t125/per"
+	"github.com/mkoci/grdp/core"
+	"github.com/mkoci/grdp/emission"
+	"github.com/mkoci/grdp/glog"
+	"github.com/mkoci/grdp/protocol/t125/ber"
+	"github.com/mkoci/grdp/protocol/t125/gcc"
+	"github.com/mkoci/grdp/protocol/t125/per"
 )
 
 // take idea from https://github.com/Madnikulin50/gordp
